@@ -21,6 +21,7 @@
 <img aling="center" alt ="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img aling="center" alt ="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img aling="center" alt ="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img aling="center" alt ="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />  
 </div></br>
 
 Hello, I'm Gabriel, and I have a passion for technology that serves as my compass in my professional journey. I'm a focused and committed individual, constantly seeking to enhance my skills and knowledge in the field. For me, technology is more than just a career; it's a source of inspiration that drives me to learn, innovate, and grow every day. I'm always open to new challenges and opportunities, eager to make a meaningful contribution in the ever-evolving world of technology.
