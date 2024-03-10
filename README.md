@@ -18,4 +18,4 @@
 <img aling="center" alt ="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div></br>
 
-Olá, sou o Gabriel, e tenho a paixão pela tecnologia como minha bússola na jornada profissional. Sou uma pessoa focada e comprometida com o que faço, buscando constantemente aprimorar minhas habilidades e conhecimentos na área. Para mim, a tecnologia é mais do que uma carreira; é uma fonte de inspiração que me motiva a aprender, inovar e crescer a cada dia. Estou sempre aberto a novos desafios e oportunidades, ansioso para contribuir de forma significativa no mundo em constante evolução da tecnologia.
+Hello, I'm Gabriel, and I have a passion for technology that serves as my compass in my professional journey. I'm a focused and committed individual, constantly seeking to enhance my skills and knowledge in the field. For me, technology is more than just a career; it's a source of inspiration that drives me to learn, innovate, and grow every day. I'm always open to new challenges and opportunities, eager to make a meaningful contribution in the ever-evolving world of technology.
