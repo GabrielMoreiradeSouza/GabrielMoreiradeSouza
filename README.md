@@ -6,7 +6,7 @@
   
 <!-- Social -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-moreira-de-souza-bb4289240/)
-[![Website Badge]([https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gabrielmoreiradesouza.github.io/GabrielMoreira.dev/](https://gabrielmoreiradesouza-dev.vercel.app/))
+[![Website Badge]([https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gabrielmoreiradesouza-dev.vercel.app/))
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)
 ](https://x.com/Gabriel41216870)
 
