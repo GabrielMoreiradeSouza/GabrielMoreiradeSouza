@@ -1,12 +1,12 @@
 
 <!-- Language selector -->
-<a href="https://github.com/mateusneresrb/mateusneresrb/blob/main/README-PT.md"><img src="https://vetores.org/d/bandeira-do-brasil.svg" alt="Bandeira do Brasil" width="26" height="26" align="right"></a>
-<a href="https://github.com/mateusneresrb/mateusneresrb"><img src="https://vetores.org/d/bandeira-estados-unidos.svg" alt="Bandeira dos Estados Unidos" width="26" height="26" style="border-bottom: 1px solid red;line" align="right"></a>
+<a href="https://github.com/GabrielMoreiradeSouza/GabrielMoreiradeSouza"><img src="https://vetores.org/d/bandeira-do-brasil.svg" alt="Bandeira do Brasil" width="26" height="26" align="right"></a>
+<a href="https://github.com/GabrielMoreiradeSouza/GabrielMoreiradeSouza"><img src="https://vetores.org/d/bandeira-estados-unidos.svg" alt="Bandeira dos Estados Unidos" width="26" height="26" style="border-bottom: 1px solid red;line" align="right"></a>
 ## Hey 👋, I'm [Gabriel Moreira!](https://github.com/GabrielMoreiradeSouza)
   
 <!-- Social -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-moreira-de-souza-bb4289240/)
-[![Website Badge]([https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gabrielmoreiradesouza-dev.vercel.app/))
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gabrielmoreiradesouza-dev.vercel.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)
 ](https://x.com/Gabriel41216870)
 
