@@ -43,6 +43,9 @@ Developer passionate about creating and optimizing systems, with experience in f
 <a href="https://reactjs.org/" target="_blank"><img alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/jenkins/jenkins.svg"/></a>
 <a href="https://www.figma.com/" target="_blank"><img alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img alt=".NET" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dotnet/dotnet.svg"/></a>
+
 
 
 ## 🏅 My GitHub Stats:
