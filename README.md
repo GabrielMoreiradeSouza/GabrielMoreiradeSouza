@@ -76,9 +76,7 @@ Developer passionate about creating and optimizing systems, with experience in f
 <a href="https://dotnet.microsoft.com/" target="_blank">
   <img alt=".NET" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
 </a>
-<a href="https://redis.io/" target="_blank">
-  <img alt="Redis" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/redis/redis.svg"/>
-</a>
+<a href="https://redis.io/" target="_blank"> <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" align="left" alt="Redis" height='40px'/> </a>
 
 
 
