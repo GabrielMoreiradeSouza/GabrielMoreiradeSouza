@@ -30,24 +30,56 @@ Developer passionate about creating and optimizing systems, with experience in f
 <br>
 
 ## 🔨 Languages and Tools:
-<a href="https://www.java.com" target="_blank"><img alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/html/html.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></a>
+
+<a href="https://www.java.com" target="_blank">
+  <img alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img alt="HTML" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/html/html.svg"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img alt="PostgreSQL" height="42px" src="https://vetores.org/d/postgresql.svg"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"/>
+</a>
+<a href="https://wordpress.org/" target="_blank">
+  <img alt="WordPress" height="42px" src="https://www.svgrepo.com/download/12244/wordpress-logo.svg"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+  <img alt="Jenkins" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/jenkins/jenkins.svg"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img alt=".NET" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+</a>
 <a href="https://redis.io/" target="_blank">
   <img alt="Redis" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/redis/redis.svg"/>
 </a>
-<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" height="42px" src="https://vetores.org/d/postgresql.svg"/></a>
-<a href="https://www.docker.com/" target="_blank"><img alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg"/></a>
-<a href="https://git-scm.com/" target="_blank"><img alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/></a>
-<a href="https://nodejs.org/" target="_blank"><img alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"/></a>
-<a href="https://wordpress.org/" target="_blank"><img alt="WordPress" height="42px" src="https://www.svgrepo.com/download/12244/wordpress-logo.svg"/></a>
-<a href="https://reactjs.org/" target="_blank"><img alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"/></a>
-<a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/jenkins/jenkins.svg"/></a>
-<a href="https://www.figma.com/" target="_blank"><img alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"><img alt=".NET" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dotnet/dotnet.svg"/></a>
+
 
 
 
