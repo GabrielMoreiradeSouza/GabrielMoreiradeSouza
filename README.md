@@ -70,12 +70,9 @@ Developer passionate about creating and optimizing systems, with experience in f
 <a href="https://www.figma.com/" target="_blank">
   <img alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/>
 </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </a>
-<a href="https://dotnet.microsoft.com/" target="_blank">
-  <img alt=".NET" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-</a>
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" align="left" alt="Redis" height='40px'/> </a>
 
 
