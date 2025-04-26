@@ -35,6 +35,9 @@ Developer passionate about creating and optimizing systems, with experience in f
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></a>
+<a href="https://redis.io/" target="_blank">
+  <img alt="Redis" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/redis/redis.svg"/>
+</a>
 <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" height="42px" src="https://vetores.org/d/postgresql.svg"/></a>
 <a href="https://www.docker.com/" target="_blank"><img alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg"/></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/></a>
