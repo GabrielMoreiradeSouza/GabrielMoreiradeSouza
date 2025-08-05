@@ -10,7 +10,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)
 ](https://x.com/Gabriel41216870)
 
-Developer passionate about creating and optimizing systems, with experience in freelance projects and corporate environments. I specialize in developing and configuring plugins in Java, as well as managing servers and networks using technologies like Docker, MySQL, WordPress, and SSH. My approach is practical, focused on delivering secure and scalable solutions, especially for game servers and web platforms. Currently pursuing the 4th semester of Computer Science, I am constantly seeking to expand my skills to deliver innovative and efficient projects.
+I'm a Developer focused on C# .NET Core, with additional knowledge in OutSystems.
+I offer technical skills, dedication, and productivity.
+I'm committed to achieving professional success and strongly value teamwork and involvement in new projects.
 <br/>
 <br/>
 
@@ -20,8 +22,8 @@ Developer passionate about creating and optimizing systems, with experience in f
   
 ### 📝 More About Me:
 
-- 🛠️ &nbsp; I’m currently working on Java
-- 🤝 &nbsp; I’m looking to collaborate on [my-website](https://github.com/GabrielMoreiradeSouza/GabrielMoreira.dev.git)
+- 🛠️ &nbsp; I’m currently working on .NET Core
+- 🤝 &nbsp; I’m looking to collaborate on [my-website](https://gabrielmoreiradesouza-dev.vercel.app/)
 - 📘 &nbsp; I am studying computer science
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/GabrielMoreiradeSouza?tab=repositories)
 - 📫 &nbsp; Connect with me on  [LinkedIn](https://www.linkedin.com/in/gabriel-moreira-de-souza-bb4289240/)
