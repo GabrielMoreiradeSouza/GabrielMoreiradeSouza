@@ -82,7 +82,7 @@ I'm committed to achieving professional success and strongly value teamwork and 
 
 ## 🏅 My GitHub Stats:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielMoreiradeSouza&theme=onedark&no-frame=true&margin-w=15" alt="Gabriel's Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMoreiradeSouza&theme=react-dark&hide_border=true&area=true" alt="Gabriel's Activity Graph" />
 </div>
 
 #
