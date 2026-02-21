@@ -82,8 +82,8 @@ I'm committed to achieving professional success and strongly value teamwork and 
 
 ## 🏅 My GitHub Stats:
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoreiradeSouza&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoreiradeSouza&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoreiradeSouza&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Gabriel's Github Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoreiradeSouza&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="Gabriel's Top Langs"/>
 </div>
 
 #
