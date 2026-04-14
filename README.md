@@ -23,7 +23,7 @@ I'm committed to achieving professional success and strongly value teamwork and 
 ### 📝 More About Me:
 
 - 🛠️ &nbsp; I’m currently working on .NET Core
-- 🤝 &nbsp; I’m looking to collaborate on [my-website](https://gabrielmoreiradesouza-dev.vercel.app/)
+- 🤝 &nbsp; I’m looking to collaborate on [my-website](https://gabrielmoreiradesouza.com.br/)
 - 📘 &nbsp; I am studying computer science
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/GabrielMoreiradeSouza?tab=repositories)
 - 📫 &nbsp; Connect with me on  [LinkedIn](https://www.linkedin.com/in/gabriel-moreira-de-souza-bb4289240/)
