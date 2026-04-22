@@ -82,7 +82,8 @@ I'm committed to achieving professional success and strongly value teamwork and 
 
 ## 🏅 My GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielMoreiradeSouza&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Gabriel's Streak" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielMoreiradeSouza&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielMoreiradeSouza&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 #
