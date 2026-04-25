@@ -10,7 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)
 ](https://x.com/Gabriel41216870)
 
-I'm a Developer focused on C# .NET Core, with additional knowledge in OutSystems.
+I'm a Developer focused on Java, with additional knowledge in OutSystems.
 I offer technical skills, dedication, and productivity.
 I'm committed to achieving professional success and strongly value teamwork and involvement in new projects.
 <br/>
