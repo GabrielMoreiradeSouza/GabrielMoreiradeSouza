@@ -22,10 +22,10 @@ Estou comprometido em alcançar o sucesso profissional e valorizo muito o trabal
 ### 📝 Mais Sobre Mim:
 
 - 📚 Formação: Estudande de Ciência da computação na PUC-GO
-- 🌐 Meu Site: [gabrielmoreiradesouza.com.br](https://gabrielmoreiradesouza.com.br/?utm_source=chatgpt.com)
+- 🌐 Meu Site: [gabrielmoreiradesouza.com.br](https://gabrielmoreiradesouza.com.br/)
 - 👨🏻‍💻 Projetos: [Meu GitHub](https://github.com/GabrielMoreiradeSouza?utm_source=chatgpt.com)
-- 💼 LinkedIn: [Gabriel Moreira de Souza no LinkedIn](https://www.linkedin.com/in/gabriel-moreira-de-souza-bb4289240/?utm_source=chatgpt.com)
-- 📄 Currículo: [Meu Currículo](https://github.com/GabrielMoreiradeSouza?utm_source=chatgpt.com)
+- 💼 LinkedIn: [Gabriel Moreira de Souza no LinkedIn](https://www.linkedin.com/in/gabriel-moreira-de-souza-bb4289240/)
+- 📄 Currículo: [Meu Currículo](https://drive.google.com/file/d/18VtR3T3kgzHpNA_hmjVeuBusIKBVKcDX/view?usp=sharing)
 - 📫 Contato: gmoreiradesouza19@gmail.com
 
 <br>
