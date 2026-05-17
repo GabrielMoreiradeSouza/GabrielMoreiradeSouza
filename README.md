@@ -25,7 +25,7 @@ Estou comprometido em alcançar o sucesso profissional e valorizo muito o trabal
 - 🌐 Meu Site: [gabrielmoreiradesouza.com.br](https://gabrielmoreiradesouza.com.br/)
 - 👨🏻‍💻 Projetos: [Meu GitHub](https://github.com/GabrielMoreiradeSouza?utm_source=chatgpt.com)
 - 💼 LinkedIn: [Gabriel Moreira de Souza no LinkedIn](https://www.linkedin.com/in/gabriel-moreira-de-souza-bb4289240/)
-- 📄 Currículo: [Meu Currículo](https://drive.google.com/file/d/18VtR3T3kgzHpNA_hmjVeuBusIKBVKcDX/view?usp=sharing)
+- 📄 Currículo: [Meu Currículo](https://drive.google.com/file/d/1Yz2W2sgL6g8kDLDX_QdBJOn8QiUmwNm9/view?usp=sharing)
 - 📫 Contato: gmoreiradesouza19@gmail.com
 
 <br>
