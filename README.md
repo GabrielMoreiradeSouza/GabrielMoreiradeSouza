@@ -9,14 +9,14 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.gabrielmoreiradesouza.com.br/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Gabriel41216870)
 
-Desenvolvedor FullStack com foco em desenvolvimento de aplicações escaláveis utilizando Java com Spring boot e o ecossistema JavaScript (React e Node.js).
+Desenvolvedor FullStack com foco em desenvolvimento de aplicações escaláveis utilizando Java com Spring boot e o ecossistema JavaScript (React e TypeScript).
 Ofereço habilidades técnicas, dedicação e produtividade.
 Estou comprometido em alcançar o sucesso profissional e valorizo muito o trabalho em equipe e o envolvimento em novos projetos.
 <br/>
 <br/>
 
 <div style="float:right; margin-left:10px;">
-<img align="right" alt="GIF do meu site" src="https://i.imgur.com/NfW3FDd.png" width="360px"/>
+<img align="right" alt="GIF do meu site" src="https://i.imgur.com/FWCO9X9.png" width="360px"/>
 </div>
 
 ### 📝 Mais Sobre Mim:
