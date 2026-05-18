@@ -85,7 +85,7 @@ Estou comprometido em alcançar o sucesso profissional e valorizo muito o trabal
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielMoreiradeSouza&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoreiradeSouza&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-one-sepia-63.vercel.app/api/top-langs/?username=GabrielMoreiradeSouza&exclude_repo=KNN-Image-Classification&count_private=true&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 #
