@@ -1,6 +1,5 @@
 <!-- Seletor de idioma -->
 <a href="https://github.com/GabrielMoreiradeSouza/GabrielMoreiradeSouza"><img src="https://vetores.org/d/bandeira-do-brasil.svg" alt="Bandeira do Brasil" width="26" height="26" align="right"></a>
-<a href="https://github.com/GabrielMoreiradeSouza/GabrielMoreiradeSouza"><img src="https://vetores.org/d/bandeira-estados-unidos.svg" alt="Bandeira dos Estados Unidos" width="26" height="26" align="right"></a>
 
 ## Olá 👋, eu sou o [Gabriel Moreira!](https://github.com/GabrielMoreiradeSouza)
 
