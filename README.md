@@ -62,9 +62,6 @@ Estou comprometido em alcançar o sucesso profissional e valorizo muito o trabal
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"/>
 </a>
-<a href="https://nodejs.org/" target="_blank">
-  <img alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"/>
-</a>
 <a href="https://www.postgresql.org/" target="_blank">
   <img alt="PostgreSQL" height="42px" src="https://vetores.org/d/postgresql.svg"/>
 </a>
