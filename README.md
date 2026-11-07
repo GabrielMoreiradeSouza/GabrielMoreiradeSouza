@@ -9,7 +9,7 @@ Currently open to **Junior Developer and Software Engineering Internship opportu
 
 ## Tech Stack
 
-**Backend:** Java, Spring Boot, Node.js, C# / .NET  
+**Backend:** Java, Spring Boot, Node.js, Python  
 **Frontend:** React, Next.js, TypeScript, JavaScript  
 **Databases:** PostgreSQL, MySQL  
 **Tools & Testing:** Docker, Git, JUnit, Mockito, Jest, Swagger/OpenAPI
